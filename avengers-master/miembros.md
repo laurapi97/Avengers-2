@@ -18,5 +18,5 @@
 * Wasp
 * Antman
 * Bruja escarlata
-* Quick Silver
+
 
